@@ -1,2 +1,2 @@
-# Adaptive_WebSite
-https://noobmaster69v10.github.io/Adaptive_WebSite/
+# Responsive_WebSite
+https://noobmaster69v10.github.io/Responsive_WebSite/
